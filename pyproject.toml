@@ -1,4 +1,6 @@
 [project]
+name = "inbox-defender"
+version = "0.1.0"
 dependencies = [
     "fastapi==0.135.2",
     "uvicorn==0.42.0",
